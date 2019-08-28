@@ -1,7 +1,7 @@
 {
-    "name": "jamstack-parallelism",
+    "name": "site-fitness-parallelism",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with Parallelism design by Pixelarity",
+    "description": "Site Fotografie - Parallelism Design. Un produs WebsiteMarket",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -29,13 +29,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/priv-jamstack-parallelism"
+        "url": "https://github.com/creare-site/site-fitness-parallelism"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/priv-jamstack-parallelism/issues",
-        "email": "support@appseed.us"
+        "url": "https://github.com/creare-site/site-fitness-parallelism/issues",
+        "email": "hello@websitemarket.ro"
     },
-    "author": "AppSeed <support@appseed.us> (https://appseed.us)",
+    "author": "WebsiteMarket <hello@websitemarket.ro> (https://websitemarket.ro)",
     "license": "Commercial",
     "private": false,
     "dependencies": {
