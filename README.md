@@ -1,16 +1,16 @@
-# [Site Fotografie Parallelism](https://site-fitness-parallelism.websitemarket.ro/)
+# [Site Fitness Parallelism](https://site-fitness-parallelism.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![Site Fotografie Parallelism](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-parallelism-intro.gif)
+![Site Fitness Parallelism](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fitness-parallelism-intro.gif)
 
 <br />
 
 ## Informatii produs
 
-- Site de prezentare - Parallelism
+- Site de prezentare sala fitness - Parallelism
 - Live [DEMO](https://site-fitness-parallelism.websitemarket.ro)
  
 <br />
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Fotografie Parallelism](https://site-fitness-parallelism.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Fitness Parallelism](https://site-fitness-parallelism.websitemarket.ro/) un produs **WebsiteMarket**
